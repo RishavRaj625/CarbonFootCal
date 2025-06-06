@@ -84,7 +84,7 @@ A comprehensive web application built with Streamlit to help individuals track, 
 
 The application includes a default admin account:
 - **Username**: `admin`
-- **Password**: `admin123`
+- **Password**: ``
 
 ⚠️ **Important**: Change the default admin password immediately after first login for security.
 
